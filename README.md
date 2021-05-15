@@ -1,1 +1,3 @@
-# workshop-20210515
+# Workshop (2021-05-15)
+
+Today I'm joining a workshop on Airflow.
